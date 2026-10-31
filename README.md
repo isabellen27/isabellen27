@@ -5,7 +5,7 @@ research **code**, **papers**, and **posters/presentations** in one place.
 
 ## 📂 What's in my public repositories
 
-| Repository      | What you'll find | Start here if you want… |
+| Repository                            | What you'll find | Start here if you want… |
 |---|---|---|
 | ☀️ [**Solar-Flare-Research**](https://github.com/isabellen27/Solar-Flare-Research) | Solar flare forecasting with an **EfficientNet** model, and **2-stage deployable model** for fast prediction developed and trained on **TPU/GPU** (Jupyter notebooks) | …to see the code and experiments |
 | 📄 [**All-Research-Papers**](https://github.com/isabellen27/All-Research-Papers) | My research papers and manuscripts | …to read the written results |
