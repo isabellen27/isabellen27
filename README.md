@@ -13,7 +13,7 @@ research **code**, **papers**, and **posters/presentations** in one place.
 
 ## 🧭 How they fit together
 Solar-Flare-Research ──▶ All-Research-Papers ──▶ All-Research-Posters-Presentations
-(code & experiments) (write-ups) (how it was presented)
+(code & experiments) 
 
 ## 🛠️ Tools & tech
 `Python` · `Jupyter` · `TensorFlow/Keras` · `EfficientNet` · `TPU / GPU training`
