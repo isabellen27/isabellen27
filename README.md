@@ -12,4 +12,14 @@ research **code**, **papers**, and **posters/presentations** in one place.
 | 🖼️ [**All-Research-Posters-Presentations**](https://github.com/isabellen27/All-Research-Posters-Presentations) | Posters and slide decks from research presentations | …a quick visual overview of the work |
 
 ## 🧭 How they fit together
+Solar-Flare-Research ──▶ All-Research-Papers ──▶ All-Research-Posters-Presentations
+(code & experiments) (write-ups) (how it was presented)
+
+## 🛠️ Tools & tech
+`Python` · `Jupyter` · `TensorFlow/Keras` · `EfficientNet` · `TPU / GPU training`
+
+
+
+## 📫 Get in touch
+
 
