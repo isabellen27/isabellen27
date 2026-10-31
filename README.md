@@ -16,7 +16,7 @@ Solar-Flare-Research ──▶ All-Research-Papers ──▶ All-Research-Poster
 (code & experiments) 
 
 ## 🛠️ Tools & tech
-`PyTorch` · `Jupyter` · `TensorFlow/Keras` · `EfficientNet` · `TPU / GPU training`
+`PyTorch` · `Jupyter` · `TensorFlow/Keras` · `EfficientNet` ·`LSTM` · `XGBoost` · `TPU / GPU training`
 
 
 
